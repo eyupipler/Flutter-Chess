@@ -67,10 +67,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
 Rastgele bir bota karşı etkileşimli bir sürüm için örnek uygulamaya bakın.
 
-# ------------------------------------------------------------------------------
-
-[![Tests](https://github.com/lichess-org/flutter-chessground/workflows/Test/badge.svg)](https://github.com/lichess-org/flutter-chessground/actions?query=workflow%3A%22Test%22)
-[![pub package](https://img.shields.io/pub/v/chessground.svg)](https://pub.dev/packages/chessground)
+# ------------------------------------------------------------
 
 Chessground is a chessboard package developed for lichess.org. It doesn't handle
 chess logic so you can use it with different chess variants.
