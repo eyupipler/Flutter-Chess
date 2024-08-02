@@ -1,5 +1,4 @@
-[![Testler](https://github.com/lichess-org/flutter-chessground/workflows/Test/badge.svg)](https://github.com/lichess-org/flutter-chessground/actions?query=workflow%3A%22Test%22)
-[![pub paketi](https://img.shields.io/pub/v/chessground.svg)](https://pub.dev/packages/chessground)
+
 
 Chessground, lichess.org için geliştirilmiş bir satranç tahtası paketidir. Bu işlem yapmaz
 satranç mantığı, böylece farklı satranç varyantları ile kullanabilirsiniz.
